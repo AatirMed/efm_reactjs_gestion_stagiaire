@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+a:hover{
+    color: white;
+    background-color: orange;
+}
+
+.all_s h3 {
+    text-align: center;
+}
+
+
+.all_s {
+display: flex;
+width: 900px;
+flex-wrap: wrap;
+}
+
+img {
+    width: 200px;
+}
+.one_s{
+    height: 236.77px;
+    margin-right: 20px;
+}
